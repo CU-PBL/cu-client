@@ -8,6 +8,6 @@ namespace CU
 {
     class ConstantData
     {
-        public static string SERVER = "http://localhost";
+        public static string SERVER = "http://106.10.42.112:8000";
     }
 }
